@@ -41,6 +41,7 @@ form{
 }
 .input-box ion-icon{
     font-size: 22px;
+    color: white;
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
